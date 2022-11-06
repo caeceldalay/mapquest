@@ -28,4 +28,4 @@ jobs:
           git config --global user.email 'mariacorazon.dalay.cics@ust.edu.ph'
           git remote set-url origin https://x-access-token/:$%7B%7B secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git commit -am "Automated autoyapf fixes"
-          git push (edited)
+          git push
