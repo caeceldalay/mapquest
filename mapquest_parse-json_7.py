@@ -18,7 +18,7 @@ vehicle = input(Fore.BLUE +"Input what type of class of vehicles (1-3): ")
 print("                                              ")
 car = input(Fore.BLUE +"What is your car?: ")
 print("                                              ")
-plate = input (Fore.BLUE +"Please enter your plate number: ")
+plate = input (Fore.RED +"Please enter your plate number: ")
 print( "                                              ")
 
 while True:
